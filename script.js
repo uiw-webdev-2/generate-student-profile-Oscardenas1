@@ -46,4 +46,4 @@ const createArticle = (Student) =>  {
   };
 
 
-document.querySelector("main").append((createArticle(Student)));
+document.querySelector("main").append(createArticle(Student));
